@@ -14,7 +14,7 @@
 
 ### Main results
 #### 1. Embedding has no impact on CNN performance however it makes a considerable difference in SVM models performance
-#### 2. Increasing input sequence length does not have any impact.
+#### 2. Increasing input sequence length does not have any impact on performance of both SVM and CNN.
 #### 3. Significant nucleotides around 2'O sites are extracted by attention mechanism of CNN
 * The location of 2'O motif reported in the [nm_seq](https://www.ncbi.nlm.nih.gov/pubmed/28504680) has got highest attention from CNN
 * 2'O site is in the middle (23rd position)

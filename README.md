@@ -17,3 +17,5 @@
 ### Increasing input sequence length does not have any impact.
 ### Significant nucleotides around 2'O sites are extracted by attention mechanism of CNN
 * The location of 2'O motif reported in the [nm_seq](https://www.ncbi.nlm.nih.gov/pubmed/28504680) has got highest attention from CNN
+* 2'O site is in the middle (23rd position)
+![sig_score](https://user-images.githubusercontent.com/22861849/73624347-0d977800-4606-11ea-889e-0e0ade96c67e.png)

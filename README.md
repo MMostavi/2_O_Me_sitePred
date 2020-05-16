@@ -1,7 +1,9 @@
 ## Predicting precise location of 2'O methylations with Machine Learning and Deep Learning models
 [Link to the first paper](https://ieeexplore.ieee.org/abstract/document/8512780)
+[Link to the second paper](https://www.biorxiv.org/content/10.1101/2020.05.10.087189v1)
 
-#### This repository contains codes and dataset for two papers. The second paper is under revision and will be added as soon as it gets accepted.
+
+#### This repository contains codes and dataset for two papers.
 #### 
 
 #### **Requirments**:
